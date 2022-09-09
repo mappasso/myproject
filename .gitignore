@@ -1,0 +1,12 @@
+Include/
+Lib/
+Scripts/
+
+myworld/members/__pycache__
+myworld/members/migration
+
+myworld/myworld/__pycache__
+
+
+
+
